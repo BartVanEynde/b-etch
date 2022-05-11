@@ -1,5 +1,5 @@
 # bartvaneynde.github.io
 Hugo blog
 
- * [https://BartVanEynde.GitHub.io/](BartVanEynde.github.io)
+ * [BartVanEynde.GitHub.io](https://BartVanEynde.github.io/)
 
