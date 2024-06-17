@@ -17,6 +17,11 @@ menu:
       title: posts
       url: /
       weight: 10
+    - identifier: tags
+      name: tags
+      title: tags
+      url: /tags/
+      weight: 15
     - identifier: about
       name: about
       title: about
