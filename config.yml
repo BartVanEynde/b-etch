@@ -7,7 +7,7 @@ pygmentsCodeFences: true
 pygmentsUseClasses: true
 params:
   description: Build with Hugo
-  copyright: Copyright © 2022 Bart Van Eynde
+  copyright: Copyright © 2024 Bart Van Eynde
   dark: auto
   highlight: true
 menu:
@@ -24,6 +24,7 @@ menu:
       weight: 20
 permalinks:
   posts: '/:title/'
+  tags: '/tmp/tags/'
 markup:
   goldmark:
     renderer:
